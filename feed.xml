@@ -4,7 +4,7 @@
   <id>https://www.das-alpha.com/</id>
   <title>Das Alpha</title>
   <subtitle>Unser Alpha hat alle anderen möchtegern Alphas einfach weggebissen!</subtitle>
-  <updated>2025-11-26T13:43:59+01:00</updated>
+  <updated>2025-11-26T14:03:45+01:00</updated>
   <author>
     <name>Das Alpha</name>
     <uri>https://www.das-alpha.com/</uri>
@@ -17,6 +17,30 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Die neue Website</title>
+    <link href="https://www.das-alpha.com/posts/Die-neue-Website/" rel="alternate" type="text/html" title="Die neue Website" />
+    <published>2025-11-01T11:00:00+01:00</published>
+  
+    <updated>2025-11-01T11:00:00+01:00</updated>
+  
+    <id>https://www.das-alpha.com/posts/Die-neue-Website/</id>
+    <content type="text/html" src="https://www.das-alpha.com/posts/Die-neue-Website/" />
+    <author>
+      <name>Das Alpha</name>
+    </author>
+
+  
+    
+    <category term="Allgemein" />
+    
+  
+
+  <summary>Ab und zu sollte man besser alles auf Vordermann bringen und die alten Zöpfe abschneiden!</summary>
+
+  </entry>
 
   
   <entry>
@@ -41,32 +65,6 @@
   
 
   <summary>Die SchLammschlacht - ewig angekündigt und immer wieder aus Gründen verschoben! Das Fest des Opferns der Lämmer!</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Der neue Kraftakt</title>
-    <link href="https://www.das-alpha.com/posts/Der-Auftakt/" rel="alternate" type="text/html" title="Der neue Kraftakt" />
-    <published>2025-04-01T11:00:00+01:00</published>
-  
-    <updated>2025-11-26T13:36:41+01:00</updated>
-  
-    <id>https://www.das-alpha.com/posts/Der-Auftakt/</id>
-    <content type="text/html" src="https://www.das-alpha.com/posts/Der-Auftakt/" />
-    <author>
-      <name>Das Alpha</name>
-    </author>
-
-  
-    
-    <category term="Weltbewegendes" />
-    
-    <category term="Baden-Württemberg" />
-    
-  
-
-  <summary>Die Historie der (fiktiven) einst blühenden Stadt Lumpenburg, die die reale Geschichte von Deutschland widerspiegelt.</summary>
 
   </entry>
 
