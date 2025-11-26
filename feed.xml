@@ -4,7 +4,7 @@
   <id>https://www.das-alpha.com/</id>
   <title>Das Alpha</title>
   <subtitle>Unser Alpha hat alle anderen möchtegern Alphas einfach weggebissen!</subtitle>
-  <updated>2025-11-26T14:03:45+01:00</updated>
+  <updated>2025-11-26T18:49:40+01:00</updated>
   <author>
     <name>Das Alpha</name>
     <uri>https://www.das-alpha.com/</uri>
@@ -17,6 +17,30 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Die Spermienschlacht</title>
+    <link href="https://www.das-alpha.com/posts/Die-Spermienschlacht/" rel="alternate" type="text/html" title="Die Spermienschlacht" />
+    <published>2025-11-05T11:00:00+01:00</published>
+  
+    <updated>2025-11-05T11:00:00+01:00</updated>
+  
+    <id>https://www.das-alpha.com/posts/Die-Spermienschlacht/</id>
+    <content type="text/html" src="https://www.das-alpha.com/posts/Die-Spermienschlacht/" />
+    <author>
+      <name>Das Alpha</name>
+    </author>
+
+  
+    
+    <category term="Spermien" />
+    
+  
+
+  <summary>Deine Alte - Geh' auf Nummer Sicher - Eine Perle oder erbärmlicher als ein KinderCrackStricher</summary>
+
+  </entry>
 
   
   <entry>
@@ -39,32 +63,6 @@
   
 
   <summary>Ab und zu sollte man besser alles auf Vordermann bringen und die alten Zöpfe abschneiden!</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Die Schlammschlacht</title>
-    <link href="https://www.das-alpha.com/posts/Die-Schlammschlacht/" rel="alternate" type="text/html" title="Die Schlammschlacht" />
-    <published>2025-04-20T11:00:00+01:00</published>
-  
-    <updated>2025-04-20T11:00:00+01:00</updated>
-  
-    <id>https://www.das-alpha.com/posts/Die-Schlammschlacht/</id>
-    <content type="text/html" src="https://www.das-alpha.com/posts/Die-Schlammschlacht/" />
-    <author>
-      <name>Das Alpha</name>
-    </author>
-
-  
-    
-    <category term="Weltbewegendes" />
-    
-    <category term="Baden-Württemberg" />
-    
-  
-
-  <summary>Die SchLammschlacht - ewig angekündigt und immer wieder aus Gründen verschoben! Das Fest des Opferns der Lämmer!</summary>
 
   </entry>
 
