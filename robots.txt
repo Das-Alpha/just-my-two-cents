@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: https://www.brdownfall.live/sitemap.xml
+Sitemap: https://www.das-alpha.com/sitemap.xml
