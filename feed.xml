@@ -4,7 +4,7 @@
   <id>https://www.das-alpha.com/</id>
   <title>Das Alpha</title>
   <subtitle>Unser Alpha hat alle anderen möchtegern Alphas einfach weggebissen!</subtitle>
-  <updated>2025-12-01T14:00:46+01:00</updated>
+  <updated>2025-12-01T14:04:08+01:00</updated>
   <author>
     <name>Das Alpha</name>
     <uri>https://www.das-alpha.com/</uri>
@@ -20,23 +20,25 @@
 
   
   <entry>
-    <title></title>
-    <link href="https://www.das-alpha.com/posts/2025-11-30-Systemschaedling-vs-Volksschaedling/" rel="alternate" type="text/html" title="" />
-    <published>2025-12-01T14:00:46+01:00</published>
+    <title>Systemschädling vs. Volksschädling</title>
+    <link href="https://www.das-alpha.com/posts/Systemschaedling-vs-Volksschaedling/" rel="alternate" type="text/html" title="Systemschädling vs. Volksschädling" />
+    <published>2025-11-30T11:00:00+01:00</published>
   
-    <updated>2025-12-01T14:00:46+01:00</updated>
+    <updated>2025-11-30T11:00:00+01:00</updated>
   
-    <id>https://www.das-alpha.com/posts/2025-11-30-Systemschaedling-vs-Volksschaedling/</id>
-    <content type="text/html" src="https://www.das-alpha.com/posts/2025-11-30-Systemschaedling-vs-Volksschaedling/" />
+    <id>https://www.das-alpha.com/posts/Systemschaedling-vs-Volksschaedling/</id>
+    <content type="text/html" src="https://www.das-alpha.com/posts/Systemschaedling-vs-Volksschaedling/" />
     <author>
       <name>Das Alpha</name>
     </author>
 
   
     
+    <category term="Systemschädling" />
+    
   
 
-  <summary>Vorwort  Bei den feinsten Oster-Lämmern kann niemand nein sagen.</summary>
+  <summary>Der Unterschied ist schnell erklärt&amp;#58; Ein Volksschädling zerstört nur ihr Volk, ein Systemschädling jedes System!</summary>
 
   </entry>
 
