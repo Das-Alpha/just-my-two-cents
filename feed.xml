@@ -4,7 +4,7 @@
   <id>https://www.das-alpha.com/</id>
   <title>Das Alpha</title>
   <subtitle>Unser Alpha hat alle anderen möchtegern Alphas einfach weggebissen!</subtitle>
-  <updated>2025-12-03T19:39:04+01:00</updated>
+  <updated>2025-12-03T19:40:58+01:00</updated>
   <author>
     <name>Das Alpha</name>
     <uri>https://www.das-alpha.com/</uri>
@@ -44,14 +44,14 @@
 
   
   <entry>
-    <title>Paketmobbing bei der DHL</title>
-    <link href="https://www.das-alpha.com/posts/Paketmobbing-bei-der-DHL/" rel="alternate" type="text/html" title="Paketmobbing bei der DHL" />
+    <title>DHL Paketmobbing</title>
+    <link href="https://www.das-alpha.com/posts/DHL-Paketmobbing/" rel="alternate" type="text/html" title="DHL Paketmobbing" />
     <published>2025-11-27T11:00:00+01:00</published>
   
     <updated>2025-11-27T11:00:00+01:00</updated>
   
-    <id>https://www.das-alpha.com/posts/Paketmobbing-bei-der-DHL/</id>
-    <content type="text/html" src="https://www.das-alpha.com/posts/Paketmobbing-bei-der-DHL/" />
+    <id>https://www.das-alpha.com/posts/DHL-Paketmobbing/</id>
+    <content type="text/html" src="https://www.das-alpha.com/posts/DHL-Paketmobbing/" />
     <author>
       <name>Das Alpha</name>
     </author>
