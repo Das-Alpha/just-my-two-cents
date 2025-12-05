@@ -4,7 +4,7 @@
   <id>https://www.das-alpha.com/</id>
   <title>Das Alpha</title>
   <subtitle>Unser Alpha hat alle anderen möchtegern Alphas einfach weggebissen!</subtitle>
-  <updated>2025-12-05T02:48:54+01:00</updated>
+  <updated>2025-12-05T02:52:29+01:00</updated>
   <author>
     <name>Das Alpha</name>
     <uri>https://www.das-alpha.com/</uri>
@@ -17,6 +17,30 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Die neue Visitenkarte mit QR-Code</title>
+    <link href="https://www.das-alpha.com/posts/Die-neue-Visistenkarte-mit-QR-Code/" rel="alternate" type="text/html" title="Die neue Visitenkarte mit QR-Code" />
+    <published>2025-12-04T11:00:00+01:00</published>
+  
+    <updated>2025-12-04T11:00:00+01:00</updated>
+  
+    <id>https://www.das-alpha.com/posts/Die-neue-Visistenkarte-mit-QR-Code/</id>
+    <content type="text/html" src="https://www.das-alpha.com/posts/Die-neue-Visistenkarte-mit-QR-Code/" />
+    <author>
+      <name>Das Alpha</name>
+    </author>
+
+  
+    
+    <category term="Systemschädling" />
+    
+  
+
+  <summary>Der Unterschied ist schnell erklärt - Ein Volksschädling zerstört nur ihr Volk, ein Systemschädling jedes System!</summary>
+
+  </entry>
 
   
   <entry>
@@ -111,30 +135,6 @@
   
 
   <summary>Deine Alte - Geh' lieber auf Nummer Sicher - Eine Perle oder erbärmlicher als ein abgefuckter KinderCrackStricher</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Die Spermienschlacht</title>
-    <link href="https://www.das-alpha.com/posts/Die-Spermienschlacht/" rel="alternate" type="text/html" title="Die Spermienschlacht" />
-    <published>2025-11-05T11:00:00+01:00</published>
-  
-    <updated>2025-11-05T11:00:00+01:00</updated>
-  
-    <id>https://www.das-alpha.com/posts/Die-Spermienschlacht/</id>
-    <content type="text/html" src="https://www.das-alpha.com/posts/Die-Spermienschlacht/" />
-    <author>
-      <name>Das Alpha</name>
-    </author>
-
-  
-    
-    <category term="Spermien" />
-    
-  
-
-  <summary>Deine Alte - "Geh' lieber auf Nummer Sicher" - Eine Perle oder erbärmlicher als ein abgefuckter KinderCrackStricher!</summary>
 
   </entry>
 
